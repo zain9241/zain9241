@@ -3,7 +3,7 @@
   1. Create a PUBLIC repo named exactly like your GitHub username: zain9241
   2. Add this file as README.md
   3. Add snake.yml as .github/workflows/snake.yml, then run it once from the Actions tab
-  4. Project links below assume repo names like time-tracker-app. Change them to your real repo names.
+  4. Notes App and Meme App have no public repo yet. Once you push them, wrap their names in links like the other two.
 -->
 
 <div align="center">
@@ -60,10 +60,10 @@ $ status
 
 | Project | What it does | Stack | Status |
 | --- | --- | --- | --- |
-| **[Time Tracker](https://github.com/zain9241/time-tracker-app)** | Log time against projects and tasks. Each entity (Projects, Tasks, Time Entries) has its own model and Provider, with an indigo/violet theme and full dark mode. | `Flutter` `Provider` `shared_preferences` | 🟢 Complete |
-| **[Habit Tracker](https://github.com/zain9241/habit-tracker-app)** | Six-screen habit app with swipe-to-complete/undo, a weekly reports table and local notifications. | `Flutter` `SharedPreferences` `flutter_local_notifications` | 🟢 Complete |
-| **[Notes App](https://github.com/zain9241/notes-app)** | Create, edit and organise notes with persistent local storage. | `Flutter` `Sqflite` | 🟢 Complete |
-| **[Meme App](https://github.com/zain9241/meme-app)** | Fetches memes from a REST API and displays them. | `Flutter` `REST API` | 🟢 Complete |
+| **[Time Tracker](https://github.com/zain9241/time_tracker)** | Log time against projects and tasks. Each entity (Projects, Tasks, Time Entries) has its own model and Provider, with an indigo/violet theme and full dark mode. | `Flutter` `Provider` `shared_preferences` | 🟢 Complete |
+| **[Habit Tracker](https://github.com/zain9241/habit_tracker)** | Six-screen habit app with swipe-to-complete/undo, a weekly reports table and local notifications. | `Flutter` `SharedPreferences` `flutter_local_notifications` | 🟢 Complete |
+| **Notes App** | Create, edit and organise notes with persistent local storage. | `Flutter` `Sqflite` | 🟢 Complete |
+| **Meme App** | Fetches memes from a REST API and displays them. | `Flutter` `REST API` | 🟢 Complete |
 | **FYP App** | Private final-year project. I designed and built 5 of the front-end screens. | `Flutter` | 🔒 Private |
 
 ## 🧱 How I structure Flutter apps
